@@ -1,14 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="77d216e7-f608-4b94-b20d-7ccde668c6ee" name="Changes" comment="" />
+    <list default="true" id="77d216e7-f608-4b94-b20d-7ccde668c6ee" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/my.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/my.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestApi/AbstractTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestApi/AbstractTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestApi/ApiTestMyGET.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestApi/ApiTestMyGET.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestApi/ApiTestOtherGET.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestApi/ApiTestOtherGET.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestApi/ApiTestPOST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestApi/ApiTestPOST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestWedUI/AuthorizationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestWedUI/AuthorizationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestWedUI/PostTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestWedUI/PostTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2NrOeY1aUSm8jq1pEVtjN4XlpMp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,12 +45,114 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Home/Documents/Аня_работа/учеба/Java/Web_test/Web_testing/pom.xml&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="JUnit.TestWedUI in Final_project">
+    <configuration name="PostTest.NextPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Final_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestWedUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestWedUI" />
+      <option name="MAIN_CLASS_NAME" value="TestWedUI.PostTest" />
+      <option name="METHOD_NAME" value="NextPageTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostTest.NextPreviousTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Final_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestWedUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestWedUI" />
+      <option name="MAIN_CLASS_NAME" value="TestWedUI.PostTest" />
+      <option name="METHOD_NAME" value="NextPreviousTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostTest.postCheckTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Final_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestWedUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestWedUI" />
+      <option name="MAIN_CLASS_NAME" value="TestWedUI.PostTest" />
+      <option name="METHOD_NAME" value="postCheckTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostTest.postElementTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Final_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestWedUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestWedUI" />
+      <option name="MAIN_CLASS_NAME" value="TestWedUI.PostTest" />
+      <option name="METHOD_NAME" value="postElementTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestWedUI in Final_project" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Final_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestWedUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestWedUI" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.PostTest.NextPreviousTest" />
+      <item itemvalue="JUnit.PostTest.postCheckTest" />
+      <item itemvalue="JUnit.PostTest.postElementTest" />
+      <item itemvalue="JUnit.TestWedUI in Final_project" />
+      <item itemvalue="JUnit.PostTest.NextPageTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestWedUI in Final_project" />
+        <item itemvalue="JUnit.PostTest.postElementTest" />
+        <item itemvalue="JUnit.PostTest.postCheckTest" />
+        <item itemvalue="JUnit.PostTest.NextPreviousTest" />
+        <item itemvalue="JUnit.PostTest.NextPageTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +163,16 @@
       <updated>1680418832631</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
